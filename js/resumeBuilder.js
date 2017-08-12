@@ -55,7 +55,7 @@ var bio = {
         degree: "High School",
         location: "Bangalore, India",
         dates: "2006-2019",
-        url: "http://psbbacademy.org",
+        url: "https://psbbacademy.org",
         majors: ["High School"]
       },
 
@@ -64,7 +64,7 @@ var bio = {
         degree: "B.S.",
         location: "Cambridge, MA, USA",
         dates: "2019-2023",
-        url: "http://web.mit.edu/",
+        url: "https://web.mit.edu/",
         majors: ["CS", "Math"]
 
       }
@@ -74,13 +74,13 @@ var bio = {
         title: "Udacity Front-End Web Developer Nanodegree",
         school: "Udacity",
         dates: "Aug'17-Sept'17",
-        url: "http://udacity.com"
+        url: "https://udacity.com"
       },
       {
         title: "Artificial Intelligence edx",
         school: "ColumbiaX",
         dates: "Jan'17-Apr'17",
-        url: "http://edx.org"
+        url: "https://edx.org"
       }
     ]
   };
